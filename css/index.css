@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E1;
-	background-color: #0B3EDE;
+	color: #000017;
+	background-color: #920C43;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 936px;
-	min-height: 459.50677966101694px;
+	min-height: 467.956779661017px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 11px 20.493220338983065px 13px;
+	padding: 12px 11px 20.04322033898302px 13px;
 }
 
 #pu105
@@ -39,21 +39,22 @@
 #menuu130
 {
 	z-index: 12;
-	width: 452px;
+	width: 410px;
 	margin-right: -10000px;
-	left: 364px;
+	margin-top: 26px;
+	left: 401px;
 }
 
 #u148
 {
-	width: 87px;
+	width: 81px;
 	min-height: 27px;
 	margin-right: -10000px;
 }
 
 #u151
 {
-	width: 87px;
+	width: 81px;
 	padding-bottom: 5px;
 }
 
@@ -69,7 +70,7 @@
 
 #u152-4
 {
-	width: 52px;
+	width: 46px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
@@ -94,21 +95,21 @@
 
 #u155
 {
-	width: 115px;
+	width: 103px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 89px;
+	left: 83px;
 }
 
 #u156
 {
-	width: 115px;
+	width: 103px;
 	padding-bottom: 5px;
 }
 
 #u159-4
 {
-	width: 80px;
+	width: 68px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
@@ -133,21 +134,21 @@
 
 #u613
 {
-	width: 126px;
+	width: 112px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 206px;
+	left: 188px;
 }
 
 #u623
 {
-	width: 126px;
+	width: 112px;
 	padding-bottom: 5px;
 }
 
 #u626-4
 {
-	width: 91px;
+	width: 77px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
@@ -172,15 +173,15 @@
 
 #u180
 {
-	width: 118px;
+	width: 108px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 334px;
+	left: 302px;
 }
 
 #u183
 {
-	width: 118px;
+	width: 108px;
 	padding-bottom: 5px;
 }
 
@@ -191,7 +192,7 @@
 
 #u185-4
 {
-	width: 83px;
+	width: 73px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
@@ -228,8 +229,8 @@
 	width: 96px;
 	min-height: 26px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 816px;
+	margin-top: 28px;
+	left: 820px;
 }
 
 #u977-4:hover
@@ -237,7 +238,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 26px;
-	margin: 1px -10000px 0px 0px;
+	margin: 28px -10000px 0px 0px;
 }
 
 #u977-4:active
@@ -245,7 +246,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 26px;
-	margin: 1px -10000px 0px 0px;
+	margin: 28px -10000px 0px 0px;
 }
 
 #u977-4.MuseLinkActive
@@ -253,7 +254,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 26px;
-	margin: 1px -10000px 0px 0px;
+	margin: 28px -10000px 0px 0px;
 }
 
 #slideshowu196
@@ -261,7 +262,7 @@
 	z-index: 41;
 	width: 0.01px;
 	height: 655px;
-	margin-top: 45px;
+	margin-top: 53px;
 	position: relative;
 }
 

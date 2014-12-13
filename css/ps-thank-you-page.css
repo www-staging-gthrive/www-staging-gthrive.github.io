@@ -1,7 +1,7 @@
-.version.literature /* version checker */
+.version.ps_thank_you_page /* version checker */
 {
-	color: #0000F1;
-	background-color: #7AD633;
+	color: #000011;
+	background-color: #CD0A5B;
 }
 
 .html
@@ -256,97 +256,34 @@
 	margin: 28px -10000px 0px 0px;
 }
 
-#ppu436-4
-{
-	width: 0.01px;
-	margin-top: 53px;
-}
-
-#pu436-4
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-}
-
-#u436-4
+#u1150-4
 {
 	z-index: 41;
-	width: 292px;
-	min-height: 28px;
+	width: 448px;
+	min-height: 29px;
 	background-color: transparent;
 	line-height: 22px;
+	font-size: 18px;
+	color: #42410B;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 85px;
 	position: relative;
 }
 
-#u440-4
+#u1151-4
 {
 	z-index: 45;
-	width: 136px;
-	min-height: 21px;
+	width: 448px;
+	min-height: 29px;
 	background-color: transparent;
 	line-height: 22px;
+	font-size: 18px;
+	color: #42410B;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 46px;
 	position: relative;
-	margin-right: -10000px;
-}
-
-#u441
-{
-	z-index: 53;
-	margin-bottom: -16px;
-	position: relative;
-	width: 158px;
-	margin-right: -10000px;
-	margin-top: -6px;
-	left: 150px;
-}
-
-#u441_img
-{
-	display: block;
-	vertical-align: top;
-}
-
-#pu440-4,#pu982-4
-{
-	width: 0.01px;
-	margin-top: 25px;
-}
-
-#u982-4
-{
-	z-index: 49;
-	width: 136px;
-	min-height: 21px;
-	background-color: transparent;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u986
-{
-	z-index: 57;
-	width: 136px;
-	-pie-box-shadow: none;
-	-moz-box-shadow: 6px 6px 30px rgba(127, 127, 127, 0.5);
-	-webkit-box-shadow: 6px 6px 30px -1px rgba(127, 127, 127, 0.5);
-	box-shadow: 6px 6px 30px rgba(127, 127, 127, 0.5);
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 156px;
-}
-
-#u448
-{
-	z-index: 55;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -8px;
-	left: 612px;
 }
 
 #u111-4
@@ -355,7 +292,7 @@
 	width: 346px;
 	min-height: 22px;
 	margin-left: 285px;
-	margin-top: 57px;
+	margin-top: 162px;
 }
 
 #u115-4
