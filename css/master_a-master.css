@@ -131,19 +131,41 @@
 	cursor: pointer;
 }
 
+#u1166-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #68951C;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 200;
+	position: relative;
+}
+
+#u183.MuseMenuActive #u185-4 p,#u1166-4:hover p
+{
+	font-weight: bold;
+}
+
+#u1166-4:active p
+{
+	font-weight: normal;
+}
+
 #u977-4
 {
 	background-color: transparent;
 	line-height: 22px;
 	font-size: 18px;
 	color: #68951C;
-	text-align: right;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 200;
 	position: relative;
 }
 
-#u183.MuseMenuActive #u185-4 p,#u977-4:hover p
+#u1166-4.MuseLinkActive p,#u977-4:hover p
 {
 	font-weight: bold;
 }

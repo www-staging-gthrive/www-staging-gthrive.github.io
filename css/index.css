@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #920C43;
+	color: #000010;
+	background-color: #79D468;
 }
 
 .html
@@ -39,22 +39,22 @@
 #menuu130
 {
 	z-index: 12;
-	width: 410px;
+	width: 389px;
 	margin-right: -10000px;
 	margin-top: 26px;
-	left: 401px;
+	left: 369px;
 }
 
 #u148
 {
-	width: 81px;
+	width: 76px;
 	min-height: 27px;
 	margin-right: -10000px;
 }
 
 #u151
 {
-	width: 81px;
+	width: 76px;
 	padding-bottom: 5px;
 }
 
@@ -74,7 +74,7 @@
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 17px;
+	left: 15px;
 }
 
 #u151:hover #u152-4
@@ -95,25 +95,25 @@
 
 #u155
 {
-	width: 103px;
+	width: 99px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 83px;
+	left: 78px;
 }
 
 #u156
 {
-	width: 103px;
+	width: 99px;
 	padding-bottom: 5px;
 }
 
 #u159-4
 {
-	width: 68px;
+	width: 70px;
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 17px;
+	left: 14px;
 }
 
 #u151.MuseMenuActive #u152-4,#u156:hover #u159-4
@@ -134,15 +134,15 @@
 
 #u613
 {
-	width: 112px;
+	width: 106px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 188px;
+	left: 179px;
 }
 
 #u623
 {
-	width: 112px;
+	width: 106px;
 	padding-bottom: 5px;
 }
 
@@ -152,7 +152,7 @@
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 17px;
+	left: 14px;
 }
 
 #u156.MuseMenuActive #u159-4,#u623:hover #u626-4
@@ -173,15 +173,15 @@
 
 #u180
 {
-	width: 108px;
+	width: 102px;
 	min-height: 27px;
 	margin-right: -10000px;
-	left: 302px;
+	left: 287px;
 }
 
 #u183
 {
-	width: 108px;
+	width: 102px;
 	padding-bottom: 5px;
 }
 
@@ -196,7 +196,7 @@
 	min-height: 22px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 17px;
+	left: 14px;
 }
 
 #u623.MuseMenuActive #u626-4,#u183:hover #u185-4
@@ -223,17 +223,43 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u977-4
+#u1166-4
 {
-	z-index: 37;
-	width: 96px;
+	z-index: 41;
+	width: 64px;
 	min-height: 26px;
 	margin-right: -10000px;
 	margin-top: 28px;
-	left: 820px;
+	left: 760px;
 }
 
-#u977-4:hover
+#u1166-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 28px -10000px 0px 0px;
+}
+
+#u1166-4:active
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 28px -10000px 0px 0px;
+}
+
+#u977-4
+{
+	z-index: 37;
+	width: 92px;
+	min-height: 26px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 824px;
+}
+
+#u1166-4.MuseLinkActive,#u977-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -259,10 +285,10 @@
 
 #slideshowu196
 {
-	z-index: 41;
+	z-index: 45;
 	width: 0.01px;
 	height: 655px;
-	margin-top: 53px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -277,34 +303,10 @@
 
 #u221popup
 {
-	z-index: 42;
+	z-index: 46;
 }
 
 #u897
-{
-	z-index: 43;
-	width: 915px;
-	height: 611px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #4F4F4F;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u943
-{
-	z-index: 45;
-	width: 915px;
-	height: 611px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #4F4F4F;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u952
 {
 	z-index: 47;
 	width: 915px;
@@ -316,9 +318,33 @@
 	position: relative;
 }
 
-#u961
+#u943
 {
 	z-index: 49;
+	width: 915px;
+	height: 611px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u952
+{
+	z-index: 51;
+	width: 915px;
+	height: 611px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u961
+{
+	z-index: 53;
 	width: 915px;
 	height: 611px;
 	border-style: none;
@@ -358,7 +384,7 @@
 
 #u219-4popup
 {
-	z-index: 51;
+	z-index: 55;
 }
 
 #u198-4
@@ -380,7 +406,7 @@
 
 #u198-4popup
 {
-	z-index: 55;
+	z-index: 59;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -402,7 +428,7 @@
 
 #u462-17
 {
-	z-index: 61;
+	z-index: 65;
 	width: 571px;
 	background-color: transparent;
 	position: relative;
@@ -470,7 +496,7 @@
 
 #u456
 {
-	z-index: 59;
+	z-index: 63;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -41px;
