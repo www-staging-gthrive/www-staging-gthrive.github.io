@@ -83,26 +83,26 @@ body
 
 a:link
 {
-	color: #0000FF;
 	text-decoration: underline;
+	color: inherit;
 }
 
 a:visited
 {
-	color: #800080;
 	text-decoration: underline;
+	color: inherit;
 }
 
 a:hover
 {
-	color: #0000FF;
+	color: #68951C;
 	text-decoration: underline;
 }
 
 a:active
 {
-	color: #EE0000;
 	text-decoration: underline;
+	color: inherit;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -126,6 +126,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-align: left;
 	text-decoration: none;
 	text-indent: 0px;
+	text-transform: none;
 	vertical-align: 0px;
 	padding: 0px;
 }
@@ -139,20 +140,28 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px 0px 4px 13px;
 }
 
-.Paragraph-Style
-{
-	font-family: source-sans-pro, sans-serif;
-	font-size: 18px;
-	font-weight: 400;
-	padding: 0px;
-}
-
 .Heading-1
 {
 	color: #68951C;
 	font-family: source-sans-pro, sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	padding: 0px;
+}
+
+.Paragraph-Style,.Nav-Head
+{
+	font-family: source-sans-pro, sans-serif;
 	font-size: 18px;
-	font-weight: 600;
+	font-weight: 300;
+	padding: 0px;
+}
+
+.Heading-2
+{
+	font-family: source-sans-pro, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
 	padding: 0px;
 }
 
@@ -549,5 +558,24 @@ textarea
 .pointer_cursor,.fld-recaptcha-mode,.fld-recaptcha-refresh,.fld-recaptcha-help
 {
 	cursor: pointer;
+}
+
+p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
+{
+	max-height: 1000000px;
+}
+
+.superscript
+{
+	vertical-align: super;
+	font-size: 66%;
+	line-height: 0;
+}
+
+.subscript
+{
+	vertical-align: sub;
+	font-size: 66%;
+	line-height: 0;
 }
 

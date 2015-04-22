@@ -1,112 +1,114 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1423719292757">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429669093887">
   <folder name="css">
-    <file name="site_global.css" crc="176233038"/>
-    <file name="master_a-master.css" crc="564708" ref="links:puresense:literature:index:team:anatomy:company:resources:ted-talk:faqs:tech-specs:contact-us:products"/>
-    <file name="links.css" crc="3804074245" ref="links"/>
-    <file name="iefonts_links.css" crc="3814600789" ref="links"/>
-    <file name="puresense.css" crc="239290051" ref="puresense"/>
-    <file name="iefonts_puresense.css" crc="244771035" ref="puresense"/>
-    <file name="literature.css" crc="3898657284" ref="literature"/>
-    <file name="iefonts_literature.css" crc="3814600789" ref="literature"/>
-    <file name="index.css" crc="276419688" ref="index"/>
-    <file name="iefonts_index.css" crc="3814600789" ref="index"/>
-    <file name="team.css" crc="77122022" ref="team"/>
-    <file name="iefonts_team.css" crc="3814600789" ref="team"/>
-    <file name="anatomy.css" crc="429376300" ref="anatomy"/>
-    <file name="iefonts_anatomy.css" crc="3814600789" ref="anatomy"/>
-    <file name="company.css" crc="443274861" ref="company"/>
-    <file name="iefonts_company.css" crc="3814600789" ref="company"/>
-    <file name="resources.css" crc="191819891" ref="resources"/>
-    <file name="iefonts_resources.css" crc="3814600789" ref="resources"/>
-    <file name="ted-talk.css" crc="304772089" ref="ted-talk"/>
-    <file name="iefonts_ted-talk.css" crc="3814600789" ref="ted-talk"/>
-    <file name="faqs.css" crc="3858398386" ref="faqs"/>
-    <file name="iefonts_faqs.css" crc="3814600789" ref="faqs"/>
-    <file name="tech-specs.css" crc="3828944883" ref="tech-specs"/>
-    <file name="iefonts_tech-specs.css" crc="3814600789" ref="tech-specs"/>
-    <file name="contact-us.css" crc="13540427" ref="contact-us"/>
-    <file name="iefonts_contact-us.css" crc="3814600789" ref="contact-us"/>
-    <file name="products.css" crc="4049843772" ref="products"/>
-    <file name="iefonts_products.css" crc="3814600789" ref="products"/>
+    <file name="site_global.css" crc="532421107"/>
+    <file name="master_a-master.css" crc="3996355382" ref="eula:index:company:jobs:products:partners:news:features:privacy:puresense-offer"/>
+    <file name="eula.css" crc="420709403" ref="eula"/>
+    <file name="iefonts_eula.css" crc="504783277" ref="eula"/>
+    <file name="index.css" crc="3981494248" ref="index"/>
+    <file name="iefonts_index.css" crc="94083977" ref="index"/>
+    <file name="company.css" crc="87960077" ref="company"/>
+    <file name="iefonts_company.css" crc="312819478" ref="company"/>
+    <file name="jobs.css" crc="3910560063" ref="jobs"/>
+    <file name="iefonts_jobs.css" crc="394375517" ref="jobs"/>
+    <file name="products.css" crc="3782600970" ref="products"/>
+    <file name="iefonts_products.css" crc="321847584" ref="products"/>
+    <file name="partners.css" crc="4077240966" ref="partners"/>
+    <file name="iefonts_partners.css" crc="155143884" ref="partners"/>
+    <file name="news.css" crc="294649656" ref="news"/>
+    <file name="iefonts_news.css" crc="531136783" ref="news"/>
+    <file name="features.css" crc="417496340" ref="features"/>
+    <file name="iefonts_features.css" crc="3783915354" ref="features"/>
+    <file name="privacy.css" crc="348104011" ref="privacy"/>
+    <file name="iefonts_privacy.css" crc="4261294373" ref="privacy"/>
+    <file name="puresense-offer.css" crc="401067963" ref="puresense-offer"/>
+    <file name="iefonts_puresense-offer.css" crc="4224112906" ref="puresense-offer"/>
   </folder>
   <folder name="assets">
-    <file name="brochure-27-jan-14.pdf" crc="4053542446" mt="1407686751000"/>
+    <file name="1-2-3-flyer---8th-feb-15.pdf" crc="389405515" mt="1423427178000"/>
     <file name="15-01-jan---case-study---walnut-farm.pdf" crc="241358122" mt="1421081392000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
-    <file name="museutils.js" crc="3777594392" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
-    <file name="webpro.js" crc="474087315" ref="index"/>
-    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
-    <file name="touchswipe.js" crc="100683906" ref="index"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="museutils.js" crc="521960461" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="pie.js" crc="3827607177" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="jquery.watch.js" crc="56779320" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="html5shiv.js" crc="4241844378" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="webpro.js" crc="220831917" ref="features:index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="features:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="features:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="features:index"/>
   </folder>
   <folder name="images">
-    <file name="ppt logo.png" crc="3883885333" ref="index:products:company:team:contact-us:literature:faqs:resources:links:ted-talk:anatomy:tech-specs:puresense"/>
-    <file name="home banner 1a.jpg" crc="63842680" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="home banner 2a.jpg" crc="116607956" ref="index"/>
-    <file name="home banner 3a.jpg" crc="3824259612" ref="index"/>
-    <file name="home banner 4a.jpg" crc="4051079870" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="20140119_0063a-u456.png" crc="94146252" ref="index"/>
-    <file name="circles - product - anatomy-u817.png" crc="202396655" ref="products"/>
-    <file name="circles - product - ts-u882.png" crc="4181925633" ref="products"/>
-    <file name="20140316_8901a-u978.png" crc="207877802" ref="products"/>
-    <file name="ted button-u1156.png" crc="4284368387" ref="products"/>
-    <file name="20140327_9727b circ-u481.png" crc="218883275" ref="company"/>
-    <file name="ps-u1111.png" crc="4066670415" ref="company"/>
-    <file name="20140312_8337 circ-u487.png" crc="353884924" ref="company"/>
-    <file name="20140316_8797a-u495.png" crc="3815884568" ref="company"/>
-    <file name="20140115_3107 ar.jpg" crc="3878550835" ref="team"/>
-    <file name="20140119_0008a-u374.png" crc="4141390049" ref="team"/>
-    <file name="20140419_6563 crop 2sm.jpg" crc="172159701" ref="team"/>
-    <file name="20140115_3081.jpg" crc="285405910" ref="team"/>
-    <file name="20140115_3064r.jpg" crc="3827403521" ref="team"/>
-    <file name="20140129_1857ar.jpg" crc="4211490687" ref="team"/>
-    <file name="20140119_9995a-u380.png" crc="3802736137" ref="team"/>
-    <file name="20140119_9971a-u398.png" crc="502434968" ref="team"/>
-    <file name="20140115_3208a.jpg" crc="39968561" ref="team"/>
-    <file name="20140316_8868a-u715.png" crc="4160501985" ref="contact-us"/>
-    <file name="20140119_0019a-u395.png" crc="4215901684" ref="contact-us"/>
-    <file name="brochure thumbnail-u441.png" crc="401991112" ref="literature"/>
-    <file name="harn case study thumbnail copy.jpg" crc="3878246218" ref="literature"/>
-    <file name="20140119_9981a-u448.png" crc="4155994214" ref="literature"/>
-    <file name="20140316_8887a-u831.png" crc="170713202" ref="faqs"/>
-    <file name="graph data unknown crp copy-u1002.png" crc="276783019" ref="faqs"/>
-    <file name="20140316_8957a-u704.png" crc="79977661" ref="faqs"/>
-    <file name="circles - lit-u669.png" crc="3932003720" ref="resources"/>
-    <file name="circles - links-u675.png" crc="138743915" ref="resources"/>
-    <file name="20140316_9006a-u690.png" crc="232210188" ref="resources"/>
-    <file name="circles faqs-u681.png" crc="4177058485" ref="resources"/>
-    <file name="20140316_8876a-u698.png" crc="361530537" ref="links"/>
-    <file name="20140119_9981a-u754.png" crc="441810797" ref="ted-talk"/>
-    <file name="20140111_2701a-u766.png" crc="452159370" ref="anatomy"/>
-    <file name="new network picture-u769.png" crc="425847468" ref="anatomy"/>
-    <file name="20130823_105917 circ copy-u779.png" crc="4168233930" ref="anatomy"/>
-    <file name="20140111_2817a circ copy-u785.png" crc="4011236315" ref="anatomy"/>
-    <file name="20140111_2877circ copy-u791.png" crc="4036360309" ref="anatomy"/>
-    <file name="20140111_2842 circ copy-u797.png" crc="3794588725" ref="anatomy"/>
-    <file name="20140122_0710a-u856.png" crc="359723638" ref="tech-specs"/>
-    <file name="20140323_9611a-u869.png" crc="4239403552" ref="tech-specs"/>
-    <file name="20140318_9063a-u875.png" crc="3891196453" ref="tech-specs"/>
-    <file name="img_0042sm.jpg" crc="254053586" ref="puresense"/>
-    <file name="20140122_0649a logo-d-u1128.png" crc="4240853483" ref="puresense"/>
+    <file name="favicon.ico" crc="379531665" ref="company"/>
+    <file name="ppt logo.png" crc="3883885333" ref="company:features:index:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="down arrow psd-up arrow.png.png" crc="169933571" ref="company:features:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="down arrow psd-up arrow 100-.png.png" crc="4000281966" ref="company:features:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="up arrow psd-up arrow.png.png" crc="3935508705" ref="company:features:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="up arrow psd-up arrow 100-.png.png" crc="458305479" ref="company:features:products:news:jobs:partners:puresense-offer:privacy:eula"/>
+    <file name="20140115_3107 ar.jpg" crc="3890307045" ref="company"/>
+    <file name="20140115_3081.jpg" crc="285405910" ref="company"/>
+    <file name="20140129_1857ar.jpg" crc="49057886" ref="company"/>
+    <file name="brian mod sm.jpg" crc="379912430" ref="company"/>
+    <file name="20150315_7937 spotlight - grey e6.png" crc="401045082" ref="company"/>
+    <file name="buynow button - psd.png" crc="3926341157" ref="features:index:products:partners"/>
+    <file name="buynow button - psd-layer 2.png" crc="224872996" ref="features:index:products:partners"/>
+    <file name="contact us button psd-u6133-fr.png" crc="3965329826" ref="features:index:products:partners:puresense-offer"/>
+    <file name="contact us button psd-u6133-r-fr.png" crc="4045220735" ref="features:index:products:partners:puresense-offer"/>
+    <file name="0.jpg" crc="140603884" ref="features"/>
+    <file name="blank.gif" crc="4208392903" ref="features:index"/>
+    <file name="1.jpg" crc="4133303630" ref="features"/>
+    <file name="2.jpg" crc="280300712" ref="features"/>
+    <file name="3.jpg" crc="4205881196" ref="features"/>
+    <file name="4.jpg" crc="3865630927" ref="features"/>
+    <file name="5.jpg" crc="3838253983" ref="features"/>
+    <file name="loading.gif" crc="3815509949" ref="features:index"/>
+    <file name="20140217_0295a-u1378.png" crc="208405943" ref="features"/>
+    <file name="underground stake - brown earth - no words - no pole.png" crc="241185767" ref="features"/>
+    <file name="20141214_8844 crp.jpg" crc="4288495117" ref="features"/>
+    <file name="actions new - add phone ii-u3796.png" crc="181372939" ref="features"/>
+    <file name="img_0006 crp - mod.jpg" crc="3893981068" ref="features"/>
+    <file name="gthrive graphs.jpg" crc="52272336" ref="features"/>
+    <file name="dsc02964a sm.jpg" crc="363606768" ref="features"/>
+    <file name="any height any depth.png" crc="296884312" ref="features"/>
+    <file name="p1390797 copy.jpg" crc="442225739" ref="features"/>
+    <file name="anatomy diagram - no words.png" crc="437711918" ref="features"/>
+    <file name="wide banner - wider 2015 updated iv - r.jpg" crc="451947236" ref="index"/>
+    <file name="wide banner - wider 2015 updated iv - s.jpg" crc="12472098" ref="index"/>
+    <file name="wide banner - wider 2015 updated iv - t.jpg" crc="31698336" ref="index"/>
+    <file name="wide banner - wider 2015 updated iv - u.jpg" crc="3815120511" ref="index"/>
+    <file name="20140316_8901a-u2860.png" crc="3998058326" ref="index"/>
+    <file name="down arrow psd-u5933-fr.png" crc="296230910" ref="products"/>
+    <file name="down arrow psd-u5933-r-fr.png" crc="321994541" ref="products"/>
+    <file name="up arrow.svg" crc="3892783106" ref="products"/>
+    <file name="up arrow_poster_.png" crc="427751373" ref="products"/>
+    <file name="20141214_8973a crp.jpg" crc="533197261" ref="products"/>
+    <file name="network diagram smartphone for web - no words - reverse.png" crc="3899594516" ref="products"/>
+    <file name="1-2-3 brochure icon, feb-15.jpg" crc="3960383398" ref="products"/>
+    <file name="harn case study thumbnail copy.jpg" crc="3967337155" ref="products"/>
+    <file name="20140419_6696 circ-u4467.png" crc="103293544" ref="products"/>
+    <file name="photo 2circ-u4483.png" crc="4002781890" ref="products"/>
+    <file name="imag1179med-u4442.png" crc="4164550245" ref="products"/>
+    <file name="14-4circ-u4452.png" crc="514450328" ref="products"/>
+    <file name="20150111_8361 square-u2869.png" crc="230531870" ref="products"/>
+    <file name="20140115_3089circ-u4457.png" crc="4051959488" ref="products"/>
+    <file name="20140419_6629acirc-u4475.png" crc="3844308674" ref="products"/>
+    <file name="20140115_3115circ-u4462.png" crc="402919168" ref="products"/>
+    <file name="untitled circ-u4488.png" crc="4277498879" ref="products"/>
+    <file name="imag1240med circ-u4447.png" crc="160912894" ref="products"/>
+    <file name="original glink setup-u3809.png" crc="174273996" ref="partners"/>
+    <file name="earth - stakes.jpg" crc="3987468898" ref="puresense-offer"/>
+    <file name="20150131_0706a 2048-u4047.png" crc="3998852205" ref="puresense-offer"/>
   </folder>
-  <file name="index.html" crc="217804298" mt="1423718978027" redirect="true"/>
-  <file name="products.html" crc="4068430999" mt="1423718978027" redirect="true"/>
-  <file name="company.html" crc="119940185" mt="1423718978028" redirect="true"/>
-  <file name="team.html" crc="4255489065" mt="1423718978028" redirect="true"/>
-  <file name="contact-us.html" crc="116999595" mt="1423718978029" redirect="true"/>
-  <file name="literature.html" crc="176486651" mt="1423718978029" redirect="true"/>
-  <file name="faqs.html" crc="3889505511" mt="1423718978029" redirect="true"/>
-  <file name="resources.html" crc="198396100" mt="1423718978030" redirect="true"/>
-  <file name="links.html" crc="456208654" mt="1423718978030" redirect="true"/>
-  <file name="ted-talk.html" crc="455152206" mt="1423718978030" redirect="true"/>
-  <file name="anatomy.html" crc="448945333" mt="1423718978031" redirect="true"/>
-  <file name="tech-specs.html" crc="3832298060" mt="1423718978031" redirect="true"/>
-  <file name="puresense.html" crc="188790756" mt="1423718978032" redirect="true"/>
+  <file name="company.html" crc="4175132498" mt="1429668649711" redirect="true"/>
+  <file name="features.html" crc="4130314002" mt="1429668649711" redirect="true"/>
+  <file name="index.html" crc="396397644" mt="1429668670335" redirect="true"/>
+  <file name="products.html" crc="8044723" mt="1429668649711" redirect="true"/>
+  <file name="news.html" crc="3837100132" mt="1429668649711" redirect="true"/>
+  <file name="jobs.html" crc="3804492133" mt="1429668649711" redirect="true"/>
+  <file name="partners.html" crc="449319872" mt="1429668649711" redirect="true"/>
+  <file name="puresense-offer.html" crc="4287782924" mt="1429668649711" redirect="true"/>
+  <file name="privacy.html" crc="221360908" mt="1429668649711" redirect="true"/>
+  <file name="eula.html" crc="534270463" mt="1429668649711" redirect="true"/>
 </manifest>
